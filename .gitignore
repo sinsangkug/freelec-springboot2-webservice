@@ -1,2 +1,3 @@
-# Project exclude paths
-/.gradle/
+# Created by .igonre support plugin (hsz.mobi)
+.gradle
+.idea
